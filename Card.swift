@@ -25,3 +25,6 @@ struct Card
         self.identifier = Card.getUnigueIdentifier()
     }
 }
+
+    
+
